@@ -1,1 +1,5 @@
-# generic-space-shooter
+# Generic 2d space shooter. 
+
+Made this retro 2d space shooter to get better at Unity and C#.
+
+[Link to game](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChristopher-Lee%2FIq2FxVaXEs.mp4?alt=media&token=a029a866-f59c-4d12-ba84-b05dd01a2a41)
