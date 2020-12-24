@@ -5,9 +5,9 @@ using UnityEngine;
  
 public class FixedScroll : MonoBehaviour 
 {
-	public float			theScrollSpeed = 0.025f;
+	public float theScrollSpeed = 0.025f;
  
-	Transform 				theCamera;
+	Transform theCamera;
  
 	void Start () 
 	{
