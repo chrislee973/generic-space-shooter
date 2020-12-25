@@ -6,24 +6,24 @@ using UnityEngine.Assertions;
  
 public class Starfield : MonoBehaviour
 {
-	public int		MaxStars = 100;
+	public int	MaxStars = 100;
 	public float	StarSize = 0.1f;
 	public float	StarSizeRange = 0.5f;
 	public float	FieldWidth = 20f;
 	public float	FieldHeight = 25f;
-	public bool		Colorize = false;
+	public bool	Colorize = false;
 	
 	float xOffset;
 	float yOffset;
  
-	ParticleSystem						Particles;
+	ParticleSystem Particles;
 	ParticleSystem.Particle[] Stars;
 	
     Transform theCamera;
  
 	void Awake ()
 	{
-        theCamera = Camera.main.transform;
+        	theCamera = Camera.main.transform;
 		Stars = new ParticleSystem.Particle[ MaxStars ];
 		Particles = GetComponent<ParticleSystem>();
  
