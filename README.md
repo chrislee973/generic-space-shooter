@@ -1,4 +1,4 @@
-# Generic 2d space shooter
+# :video_game: Generic 2d space shooter
 
 Basic retro 2d space shooter I made in order to learn Unity and C#. 
 
